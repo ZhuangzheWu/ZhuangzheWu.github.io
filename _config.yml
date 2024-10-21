@@ -21,7 +21,7 @@ repository               : "ZhuangzheWu/ZhuangzheWu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.png"
   name             : "Zhuangzhe Wu（吴庄辙）"
   pronouns         : # example: "she/her"  
   bio              : "a PKU undergraduate student"
