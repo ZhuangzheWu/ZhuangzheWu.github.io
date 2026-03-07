@@ -23,13 +23,7 @@ I have a wide range of interests: music 🎵, reading 📚, table tennis 🏓, a
 - **3D Vision & Spatial Intelligence 🧊👁️:** 3D scene understanding and spatial perception; real-to-sim transfer for embodied systems
 - **Robot Learning & Manipulation 🤖✋:** Learning-based robotic manipulation and control; embodied policy learning from multimodal data; robust skill generalization in real-world settings
 
-<!-- ## News
-- **[Feb. 2026]** BFM-Zero is accepted to **ICLR 2026** ! See you in Brazil✨ And the **Training Code** is out! (ง ˙o˙)ว (๑˃̵ᴗ˂̵)و 😄
-- **[Jan. 2026]** BFM-Zero **Inference Tutorial & Deployment** 🚀 is out — try it, deploy it, and make it better 🛠️✨
-- **[Dec. 2025]** 🏆 Awarded the Presidential Scholarship of Tsinghua University (10 undergraduate recipients university-wide)
-- **[Nov. 2025]** Our paper **BFM-Zero🛡️** is finally released🧘‍♂️! A unified skill space for zero-shot humanoid control across diverse🎨 tasks!
-- **[Sep. 2025]** Our paper **HDMI** is out🎬➡️🤖!
-- **[Sep. 2025]** I will be presenting **Hold My Beer🍺** at **CoRL 2025** in Seoul, South Korea! -->
+
 
 
 {% include_relative _includes/publications.md %}
