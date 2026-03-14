@@ -1,28 +1,28 @@
 main:
-  # - title: "URDF-Anything+ : Autoregressive Articulated 3D Models Generation for Physical Simulation"
-  #   authors: <strong>Zhuangzhe Wu</strong>, Yue Xin, Chengkai Hou, Minghao Chen, Jieyu Zhang, Shanghang Zhang
-  #   conference_short: In submission
-  #   # conference: Conference on Neural Information Processing Systems,  <strong>(NeurIPS)</strong>, 2025.
-  #   pdf: https://arxiv.org/abs/2511.00940
-  #   project: https://urdf-anything-plus.github.io/
-  #   code: https://github.com/LZVSDY/URDF-Anything_CODE
-  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
-  #   # notes: Oral Presentation
-  #   image: ./assets/img/pipeline.png
+  - title: "URDF-Anything+ : Autoregressive Articulated 3D Models Generation for Physical Simulation"
+    authors: <strong>Zhuangzhe Wu</strong>, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, Jieyu Zhang, Shanghang Zhang
+    conference_short: In submission
+    # conference: Conference on Neural Information Processing Systems,  <strong>(NeurIPS)</strong>, 2025.
+    pdf: 
+    project: https://urdf-anything-plus.github.io/
+    code: 
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
+    # notes: Oral Presentation
+    image: ./assets/img/pipeline.png
 
   - title: "URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model"
     authors: Zhe Li*, Xiang Bai*, Jieyu Zhang, <strong>Zhuangzhe Wu</strong>,
               Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang
                   (* Equal Contribution)
-    conference_short: NeurIPS (Spotlight)
+    conference_short: NeurIPS 
     conference: Conference on Neural Information Processing Systems,  <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2511.00940
     project: https://lzvsdy.github.io/URDF-Anything/
     code: https://github.com/LZVSDY/URDF-Anything_CODE
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
-    # notes: Oral Presentation
+    notes: Spotlight
     image: ./assets/img/urdf.png
 
   - title: "EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting"

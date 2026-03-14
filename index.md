@@ -31,3 +31,8 @@ I have a wide range of interests: music 🎵, reading 📚, table tennis 🏓, a
 {% include_relative _includes/selected_awards.md %}
 
 
+
+
+<div style="text-align: center; transform: scale(0.7); transform-origin: top center;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uh2mFWEXt7-7ihbnnmqHdSQ-CbN6WMlBjP32O4_-lD4&cl=ffffff&w=a"></script>
+</div>
