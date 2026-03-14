@@ -5,10 +5,9 @@ layout: homepage
 ## About Me
 I am currently a junior in [Experimental Class in Intelligence Science and Technology (Zhi Class)](https://zhi-class.ai/) at [Peking University](https://www.pku.edu.cn/), majoring in Artificial Intelligence. Prior to this, I was a member of the <span style="color:darkred"><strong>China National Chemistry Olympiad Training Team</strong></span>. 
 
-In terms of academic performance, my major GPA is 3.84, and I <span style="color:darkred"><strong>was awarded the National Scholarship in 2025, the highest honor for undergraduates</strong></span>. I began my research under the supervision of Prof. [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en) , focusing on **3D Vision and Embodied AI**. During the Fall of 2025, I was a student intern at [MSC Lab](https://msc.berkeley.edu/) at University of California, Berkeley, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), where I worked on **Embodied World Models for robotics manipulation**.
-
-**My primary research goal is to contribute to the
-development of more general intelligence that goes beyond language and integrates vision, physical
+In terms of academic performance, my major GPA is 3.84, and I <span style="color:darkred"><strong>was awarded the National Scholarship in 2025, the highest honor for undergraduates</strong></span>. I began my research under the supervision of Prof. [Shanghang Zhang](https://scholar.google.com/citations?user=voqw10cAAAAJ&hl=en) , focusing on **3D Vision and Embodied AI**. During the Fall of 2025, I was a student intern at [MSC Lab](https://msc.berkeley.edu/) at University of California, Berkeley, advised by Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), where I worked on **Embodied World Models for robotics manipulation**. I'm currently collaborating with Prof. [Manling Li](https://limanling.github.io/) from Northwestern University on **3D Vision and Spatial Intelligence**. 
+My primary research goal is to contribute to the 
+development of **more general intelligence that goes beyond language and integrates vision, physical
 interaction, and spatial reasoning.** 
 
 <details style="margin-top: 0;">
