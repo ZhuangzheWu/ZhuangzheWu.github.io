@@ -9,7 +9,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/pipeline.png
+    image: ./assets/img/urdf-anything-plus.gif
 
   - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
     authors: Yulin Luo*, Hao Chen*, <strong>Zhuangzhe Wu*</strong>,
