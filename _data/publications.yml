@@ -3,9 +3,9 @@ main:
     authors: <strong>Zhuangzhe Wu</strong>, Yue Xin, Chengkai Hou, Minghao Chen, Yaoxu Lyu, Jieyu Zhang, Shanghang Zhang
     conference_short: In submission
     # conference: Conference on Neural Information Processing Systems,  <strong>(NeurIPS)</strong>, 2025.
-    pdf: 
+    pdf: https://arxiv.org/pdf/2603.14010
     project: https://urdf-anything-plus.github.io/
-    code: 
+    code: https://github.com/URDF-Anything-plus/URDF-Anything-plus
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
