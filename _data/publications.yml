@@ -11,6 +11,20 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/pipeline.png
 
+  - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
+    authors: Yulin Luo*, Hao Chen*, <strong>Zhuangzhe Wu*</strong>,
+              Bowen Sui*, Jiaming Liu*, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang
+                  (* Equal Contribution)
+    conference_short: In submission
+    # conference: Conference on Neural Information Processing Systems,  <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2603.15618
+    project: https://deepvision-vla.github.io/
+    # code: https://github.com/URDF-Anything-plus/URDF-Anything-plus
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
+    # notes: Oral Presentation
+    image: ./assets/img/deepvision_teaser.png
+
   - title: "URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model"
     authors: Zhe Li*, Xiang Bai*, Jieyu Zhang, <strong>Zhuangzhe Wu</strong>,
               Che Xu, Ying Li, Chengkai Hou, Shanghang Zhang
